@@ -15,7 +15,7 @@ Transcript length
 GC content
 AT dinucleotide composition
 
-##Models
+## Models
 
 We use the following machine learning models to classify the RNA sequences:
 
