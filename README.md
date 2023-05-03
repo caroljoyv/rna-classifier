@@ -25,7 +25,7 @@ Random forest
 Support vector machine (SVM)
 We train each model on the extracted features and evaluate their performance using various metrics, such as accuracy, precision, recall, and F1 score.
 
-##Usage
+## Usage
 To run the project, follow these steps:
 
 Clone the repository: git clone https://github.com/<username>/<repository-name>.git
